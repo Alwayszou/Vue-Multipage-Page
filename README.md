@@ -1,3 +1,4 @@
+
 # multipage_template
 
 > A Vue.js project
@@ -19,3 +20,6 @@ npm run build --report
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# Vue-WebPack-Multipage-Page
+vue 多页面模板  单页面直接vue-cli
