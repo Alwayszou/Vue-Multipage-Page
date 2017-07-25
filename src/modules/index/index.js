@@ -8,12 +8,12 @@ import App from './index.vue'
 Vue.use(VueRouter);
 Vue.use(VueResource);
 
-const router = new VueRouter({
-    routes
-});
+// const router = new VueRouter({
+//     routes
+// });
 
 new Vue({
     el: "#app",
     render: h => h(App),
-    router
+    // router
 });
